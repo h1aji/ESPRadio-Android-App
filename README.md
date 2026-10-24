@@ -1,6 +1,6 @@
 # ESP Radio. Remote control app for Android
 
-A native Android remote control app for the [ESP-radio](https://github.com/h1aji/Esp-radio) [ESP32-Radio](https://github.com/edzelf/ESP32-Radio) and firmware, built with Kotlin and Jetpack Compose.
+A native Android remote control app for the [ESP-radio](https://github.com/h1aji/Esp-radio) and [ESP32-Radio](https://github.com/Edzelf/ESP32Radio-V2) firmware, built with Kotlin and Jetpack Compose.
 
 The device exposes its controls over plain HTTP on the local network (no JSON API, just query-param GET requests). This app talks to it directly over Wi-Fi — no cloud, no account, no third-party server involved.
 
