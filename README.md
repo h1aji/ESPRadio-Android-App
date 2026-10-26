@@ -4,6 +4,8 @@ A native Android remote control app for the [ESP-radio](https://github.com/h1aji
 
 The device exposes its controls over plain HTTP on the local network (no JSON API, just query-param GET requests). This app talks to it directly over Wi-Fi — no cloud, no account, no third-party server involved.
 
+<img src="Screenshot_ESPRadio.png" height="500">
+
 ## Features
 
 - Play/pause, volume up/down and direct volume control
