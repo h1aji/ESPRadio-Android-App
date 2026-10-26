@@ -199,7 +199,7 @@ fun ControlScreen(
         val versionName = remember {
             context.packageManager.getPackageInfo(context.packageName, 0).versionName.orEmpty()
         }
-        val githubUrl = "https://github.com/h1aji/Esp-radio"
+        val githubUrl = "https://github.com/h1aji/ESPRadio-Android-App"
         AlertDialog(
             onDismissRequest = { showInfoDialog = false },
             title = { Text("ESP Radio") },
